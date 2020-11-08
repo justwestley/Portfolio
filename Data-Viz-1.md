@@ -9,6 +9,6 @@ From 1995 to 2019, financial stability was more common internationally than you 
 
 
 ## Japan's National Debt Stands out Among G10 Countries
-Over a 20-year period, the G10's only Asiatic member has seen their Debt-to-GDP ratio rise, signaling a growing risk of default. 
+Over a 20-year period, the G10's only Asiatic member has seen their Debt-to-GDP ratio rise, signaling a growing risk of default even when compared with similar economies. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4283388"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
