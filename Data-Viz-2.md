@@ -3,3 +3,5 @@
 ## Critique by Design 
 
 Original Visualization: 
+
+![Image 1](/Image/NEA-gender.png)
