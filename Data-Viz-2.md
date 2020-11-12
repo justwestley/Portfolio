@@ -9,3 +9,12 @@ This chart is taken from a 2017 report by the National Endowment of the Arts stu
 ![Image 1](/NEA-gender.PNG)
 Page 21, [U.S. Patters in Arts Participation: A Full Report from the 2017 Survey of Public Participation in the Arts](/https://www.arts.gov/sites/default/files/US_Patterns_of_Arts_ParticipationRevised.pdf)
 
+## My Redesign 
+
+What I liked best about the original visualization was its use of a bar chart. Because the data is describing proportions, I decided early on in my process to continue down that path. The challenge lay in capturing that the percentages were not supposed to add up to 100%. Rather the percentages represented the portion of all U.S. men or all U.S. women who participated in arts and cultural events. Placing the bars directly next to each other, such as in a standard stacked bar chart, caused this very confusion according to my roommate. The solution I came up with was to place a small gap between the two sections of each bar. This clarified that the two percentages were not completely connected while demonstrating the disparity between female and male participation. Additionally, I removed the “total bar” altogether as it did not assist in telling the story I wanted to tell -- that women participate in the arts at a higher rate than men. 
+
+In regards to color, I chose to use the traditional gendered colors of pink and blue. I found that this simplified the chart as these colors did not require a key for the reader to understand. The percentages were placed inside their respective bars to consolidate the design, and the rest of the text was kept black or grey. Rather than simply describing the data in its caption, I pointed to the fact that the data demonstrated an arts and culture gap. I like this description because it highlights the small gap between the male and female bars. Further, I reduced the amount of text used to describe the activity-types as they provided a level of specificity unnecessary for the purposes of this visualization. 
+
+Ultimately, what I like most about my visualization is that it took a rather boring, academic chart and had it make an argument. From first glance, my reviewers could tell that my chart dealt with gender and could identify that the female bars were larger than the male ones. I found this assignment to be quite fun, and I’m excited to keep visualizing arts-related data! 
+
+![Image 2](/Arts Participation - Gender.png)
