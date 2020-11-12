@@ -3,4 +3,5 @@
 ## Critique by Design 
 
 Original Visualation: 
-![Image 1](/Arts Participation - Gender.png)
+
+![Image 1](/Images/NEA-gender.png)
