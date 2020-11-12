@@ -17,4 +17,4 @@ In regards to color, I chose to use the traditional gendered colors of pink and 
 
 Ultimately, what I like most about my visualization is that it took a rather boring, academic chart and had it make an argument. From first glance, my reviewers could tell that my chart dealt with gender and could identify that the female bars were larger than the male ones. I found this assignment to be quite fun, and I’m excited to keep visualizing arts-related data! 
 
-![Image 2](/Arts Participation - Gender.png)
+![Image 2](/Arts Participation - Gender.png) 
