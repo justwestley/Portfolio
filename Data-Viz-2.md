@@ -1,7 +1,7 @@
 [Home](https://justwestley.github.io/Westley-Portfolio/)
 
-## Critique by Design 
+# Critique by Design 
 
-Original Visualization: 
+## Original Visualization: 
 
 ![Image 1](/Image/NEA-gender.png)
