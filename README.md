@@ -12,4 +12,5 @@ I'm interested in learning new ways to:
  
 # Portfolio
 [Visualing Government Debt](/Data-Viz-1.md)
+
 [Critique by Design](/Data-Viz-2.md)
