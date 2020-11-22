@@ -28,7 +28,7 @@ For the series of charts built from my primary data set, I plan on mapping the 1
 
 In regards to my secondary data sources, I will use a half donut chart to translate the Culture Track data and bar charts to capture the staff demographaphic survey data. 
 
-![Image 2](/Wirefram 2.jpg) 
+![Image 2](/Wireframe 2.jpg) 
 
 ### Data
 The primary data set is from a 2019 study by the Andrew W. Mellon Foundation and the Association of Art Museum Directors Secondary data includes responses from the Andew W. Mellon Foundation’s Art Museum Staff Demographic Survey 2018 and LaPacha Cohen’s Culture Track 2017. 
