@@ -18,6 +18,16 @@ Collections in Major U.S. art museums overly represent work by white and male ar
     - Social Media like Instagram’s @changethemuseum highlight stories of POC employees at major U.S. museums.
     - Provide website information to stay informed and get involved. 
 
+### Sketches
+For the series of charts built from my primary data set, I plan on mapping the 18 museums onto a map of the United States and using pie graphs to visualize the relevant demographic proportions. 
+
+![Image 1](/Wireframe 1.jpeg) 
+
+
+In regards to my secondary data sources, I will use a half donut chart to translate the Culture Track data and bar charts to capture the staff demographaphic survey data. 
+
+![Image 2](/Wirefram 2.jpeg) 
+
 ### Data
 The primary data set is from a 2019 study by the Andrew W. Mellon Foundation and the Association of Art Museum Directors Secondary data includes responses from the Andew W. Mellon Foundation’s Art Museum Staff Demographic Survey 2018 and LaPacha Cohen’s Culture Track 2017. 
 
