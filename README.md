@@ -14,3 +14,5 @@ I'm interested in learning new ways to:
 [Visualing Government Debt](/Data-Viz-1.md)
 
 [Critique by Design](/Data-Viz-2.md)
+
+[Final Project - Part 1](/Final-Project-1.md) 
