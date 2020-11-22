@@ -29,7 +29,7 @@ The studies and their corresponding data can be found below:
 - Topaz CM, Klingenberg B, Turek D, Heggeseth B, Harris PE, Blackwood JC, et al. (2019) Diversity of artists in major U.S. museums. PLoS ONE 14(3): e0212852.                 https://doi.org/10.1371/journal.pone.0212852.
      
 “Art Museum Staff Demographic Survey 2018”
-- Westermann M, Schonfeld R, Sweeney L, et al. (2019) Art Museum Staff Demographic Survey 2018. https://mellon.org/media/filer_public/b1/21/b1211ce7-5478-4a06-92df3c88fa472446/sr-mellon-report-art-museum-staff-demographic-survey-01282019.pdf. 
-     
+- Westermann M, Schonfeld R, Sweeney L, et al. (2019) Art Museum Staff Demographic Survey 2018. https://mellon.org/media/filer_public/b1/21/b1211ce7-5478-4a06-92df-3c88fa472446/sr-mellon-report-art-museum-staff-demographic-survey-01282019.pdf
+
 “Culture Track 2017” 
 - La Placa Cohen. (2017). Culture Track 2017 Topline Deck. https://s28475.pcdn.co/wp-content/uploads/2019/06/CT2017-Topline-Deck-1.pdf. 
