@@ -45,3 +45,7 @@ The studies and their corresponding data can be found below:
 
 “Culture Track 2017” 
 - La Placa Cohen. (2017). Culture Track 2017 Topline Deck. https://s28475.pcdn.co/wp-content/uploads/2019/06/CT2017-Topline-Deck-1.pdf. 
+
+### Method & Medium
+
+I plan on using Tableau to create the charts for this project. I will then build the story itself on Shorthand using the story feature. 
