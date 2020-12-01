@@ -1,4 +1,4 @@
-[Home](/https://justwestley.github.io/Westley-Portfolio/)
+[Home](/justwestley.github.io/Westley-Portfolio/)
 
 # Final Project - Part 2 
 
