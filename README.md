@@ -16,3 +16,5 @@ I'm interested in learning new ways to:
 [Critique by Design](/Data-Viz-2.md)
 
 [Final Project - Part 1](/Final-Project-1.md) 
+
+[Final Project - Part 2](/Final-Project-2.md)
