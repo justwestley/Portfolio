@@ -28,6 +28,6 @@ I asked them to respond to these questions after scrolling through my wireframes
 4. Were you ever confused by the structure of the story? Would you restructure anything? 
 5. Any other comments or suggestions? 
 
-The responses revealed a couple of things. First, the beginning of my story needs refinement. One responder felt that the Culture Track data was unnecessary. Another felt I could couple the introduction of collections management as a practice with DEAI issues more obviously. Other notes included adding more information about Decolonize This Place (social media, donation information, etc) in my call to action and making the name of the “Art Museum Staffing, People of Color” chart to something more descriptive.
+The responses revealed a couple of things. First, the beginning of my story needs refinement. One responder felt that the Culture Track data was unnecessary. Another felt I could couple the introduction of collections management as a practice with DEAI issues more obviously. Other notes included adding more information about Decolonize This Place (social media, donation information, etc) in my call to action and making the name of the “Art Museum Staffing, People of Color” chart to something more descriptive. However, most of my feedback was positive. People liked the overall structure of my story and enjoyed the interactivity of the main visualizations. 
 
 Moving forward, I plan on editing the beginning of my story to better set up the problem I am trying to explain, writing clearer chart titles, and improving the call to action. 
