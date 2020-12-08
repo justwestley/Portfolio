@@ -11,8 +11,6 @@ After I submitted my Part 2, I continued to ask for user feedback. Based on this
 
 One visualization I did change was the “Art Museum Staffing, People of Color” chart. Users were confused both by the style of the chart itself and the use of raw numbers rather than proportions. In my redesign, I switched the style to a simple horizontal bar chart and presented the data as percentages. 
 
-[Image 1] [Image 2]
-
 I also edited my call to action to highlight the name of Decolonize This Place, and rewrote the final sentence to provide clearer action items. Further, I changed some of my photos to avoid potential copyright issues. 
 
 The target audience for this project was the museum-going public. I selected this target because they are the population that simultaneously values museums and isn’t at risk if they hold those institutions accountable. 
