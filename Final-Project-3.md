@@ -21,15 +21,15 @@ The complete project can be accessed [here](https://carnegiemellon.shorthandstor
 
 Culture Track 2017. Culture Track. Accessed December 1, 2020. https://s28475.pcdn.co/wp-content/uploads/2019/06/CT2017-Topline-Deck-1.pdf.
 
-Topaz, Chad M. "Diversity of Artists in U.S. Museums." PLoS ONE 14(3): e0212852. https://doi.org/10.1371/journal.pone.0212852
-
 "Detroit city, Michigan." U.S. Census QuickFacts. Accessed December 6, 2020. https://www.census.gov/quickfacts/detroitcitymichigan.
+
+"Faxxx." Decolonize This Place. Accessed December 1, 2020. https://decolonizethisplace.org/faxxx-1. 
 
 "New York City, New York." U.S. Census Quickfacts. Accessed December 6, 2020. https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork/PST045219.
 
-Westermann, M., Schonfeld R., and Sweeney, L. "Art Museum Staff Demographic Survey 2018." Ithaka S+R. Accessed December 1, 2020. https://mellon.org/media/filer_public/e5/a3/e5a373f3-697e-41e3-8f17-051587468755/sr-mellon-report-art-museum-staff-demographic-survey-01282019.pdf.
+Topaz, Chad M. "Diversity of Artists in U.S. Museums." PLoS ONE 14(3): e0212852. https://doi.org/10.1371/journal.pone.0212852 
 
-"Faxxx." Decolonize This Place. Accessed December 1, 2020. https://decolonizethisplace.org/faxxx-1.
+Westermann, M., Schonfeld R., and Sweeney, L. "Art Museum Staff Demographic Survey 2018." Ithaka S+R. Accessed December 1, 2020. https://mellon.org/media/filer_public/e5/a3/e5a373f3-697e-41e3-8f17-051587468755/sr-mellon-report-art-museum-staff-demographic-survey-01282019.pdf.
 
 ### Images
 
