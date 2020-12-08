@@ -18,3 +18,5 @@ I'm interested in learning new ways to:
 [Final Project - Part 1](/Final-Project-1.md) 
 
 [Final Project - Part 2](/Final-Project-2.md)
+
+[Final Project - Part 3](/Final-Project-3.md) 
